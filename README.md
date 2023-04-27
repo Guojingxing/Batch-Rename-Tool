@@ -14,7 +14,7 @@
 - Fill in the keyword to be replaced in the input box on the left, and the keyword to be replaced on the right, put the exe file in the folder that needs to contain the file to be renamed, and click "OK" to complete the replacement.
 - Up to 11 pairs of keyword replacements can be filled in at one time (including the preset 4 lines).
 - You can specify the folder above to rename the files in which keywords need to be replaced in batches.
-## 注意事项
+## 注意事项 / Attention
 ### 中文
 - 关键词按照从上往下填写的顺序依次替换，注意填写顺序可能带来的问题。
 - 该软件目前只支持`zh-CN`。
