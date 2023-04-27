@@ -1,2 +1,8 @@
-# Batch-Rename-Tool
-A simple batch renaming tool that removes filter keywords when uploading files on fandom.com
+# 批量重命名工具
+一个简单的批量重命名工具，在fandom.com上传文件时去除过滤关键词（免安装）
+
+## 使用方法
+在左侧输入框输入需要替换的关键字，右侧填需要替换成的关键字，把rename.exe放在需要装有需要重命名文件的文件夹内即可使用。
+
+## 注意事项
+该软件目前只支持简体中文（Only Simplified Chinese）。
