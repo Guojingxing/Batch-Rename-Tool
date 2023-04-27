@@ -1,0 +1,1 @@
+pyinstaller -F -i 1.ico -w rename.py
