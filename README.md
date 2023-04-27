@@ -7,11 +7,11 @@
 
 ## 使用方法 / Usage
 ### 中文
- - 左侧输入框填需要替换的关键词，右侧填需要替换成的关键词，把exe文件放在需要装有需要重命名文件的文件夹，点击“确定”，完成替换。
+ - 左侧输入框填需要替换的关键词，右侧填需要替换成的关键词，把exe文件放在需要批量重命名文件的文件夹，点击“确定”，完成替换。
  - 一次最多可填写11对关键词替换（包括预设的4行）。
  - 可在上方指定文件夹批量重命名其中需要替换关键词的文件。
 ### English
-- Fill in the keyword to be replaced in the input box on the left, and the keyword to be replaced on the right, put the exe file in the folder that needs to contain the file to be renamed, and click "OK" to complete the replacement.
+- Fill in the keyword to be replaced in the input box on the left, and the keyword to be replaced on the right, put the exe file in the folder that contain the files which need to be renamed, and click "OK" to complete the replacement.
 - Up to 11 pairs of keyword replacements can be filled in at one time (including the preset 4 lines).
 - You can specify the folder above to rename the files in which keywords need to be replaced in batches.
 ## 注意事项 / Attention
