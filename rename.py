@@ -110,12 +110,12 @@ replace_label = tk.Label(window, text="替换为")
 source_label.grid(in_=bottom_frame, row=0, column=0, sticky="ew")
 replace_label.grid(in_=bottom_frame, row=0, column=1, sticky="ew")
 
-# fandom的上传时可能需要避开的文件关键词（预设）
+# 预设关键词
 default_renames = [
-    ("mmexport", ""),
+    ("psb", ""),
     ("IMG_", ""),
     ("IMG", ""),
-    (".JPG", ".jpg")
+    ("mmexport", "")
 ]
 
 # 其他行 Frame
