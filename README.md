@@ -3,7 +3,7 @@
 
 |  中文   | English  |
 |  :---  | :---  |
-| 一个简单的批量重命名工具，在fandom.com上传文件时去除过滤关键词（免安装）  | A simple batch renaming tool that removes filtered keywords when uploading files to fandom.com (no installation required) |
+| 一个简单的批量重命名工具  | A simple batch renaming tool that removes filtered keywords when uploading files to fandom(no installation required) |
 
 ## 使用方法 / Usage
 ### 中文
