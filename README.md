@@ -1,5 +1,7 @@
 # 批量重命名工具
-
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Guojingxing/Batch-Rename-Tool)](#)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/Guojingxing/Batch-Rename-Tool/total)](#)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/Guojingxing/Batch-Rename-Tool/latest/total)](#)
 
 |  中文   | English  |
 |  :---  | :---  |
